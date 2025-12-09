@@ -1,7 +1,7 @@
 package com.usal;
 
 /** 
- * Esta clase es muy importante
+ * Esta clase es muy importante y la documentacion tambien
  */
 
 public class Persona {
@@ -23,6 +23,8 @@ public class Persona {
             return new Persona(trozos[0], trozos[1]);
         }
     }
+
+
 
     public String getNombre() {
         return nombre;
